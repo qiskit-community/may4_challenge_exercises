@@ -29,7 +29,9 @@ Measurement error mitigation is a very useful technique for obtaining the best p
 
 ## Hints for Exercise 3
 
-This exercise requires looping through bitstrings and doing comparisons. In Python, a loop that goes through a string called `str_example` from left to right is shown below.
+- The function `bob_measure_qubit` needs to add some gates to the single qubit circuit `qubit_circuit`. It does not need to return anything.
+
+- This exercise requires looping through bitstrings and doing comparisons. In Python, a loop that goes through a string called `str_example` from left to right is shown below.
 
 ```python
 str_example = 'Hello World!'

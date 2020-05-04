@@ -1,18 +1,14 @@
 # IBM Quantum Challenge exercises
 
-> Original versions of the exercises
-
+Original versions of the exercises in the [IBM Quantum Challenge](http://ibm.co/quantumchallenge)
 
 ## What's in this repository?
 
-If you're reading this I hope it it because you already know about the
-[IBM Quantum Challenge](https://quantum-computing.ibm.com/challenges). In this repository you will
-find a copy of the exercises, some useful hints and a live FAQ we will fill-in as the challenge unfolds.
+In this repository you will find a copy of the exercises in the [IBM Quantum Challenge](http://ibm.co/quantumchallenge), some useful hints and a live FAQ that we will fill-in as the challenge unfolds.
 
-## How can I solve the exercises?
+## I'm stuck. How can I solve the exercises?
 
-Take a look at the [`hints.md`](https://github.com/qiskit-community/may4_challenge_exercises/blob/master/hints.md) file to
-receive some advice on how to solve the challenges.
+Take a look at the [`hints.md`](https://github.com/qiskit-community/may4_challenge_exercises/blob/master/hints.md) file for some advice on how to solve the challenges.
 
 ## I'm having problems running the exercises, what can I do?
 

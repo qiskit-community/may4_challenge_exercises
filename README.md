@@ -10,7 +10,7 @@ In this repository you will find a copy of the exercises in the [IBM Quantum Cha
 
 Take a look at the [`hints.md`](https://github.com/qiskit-community/may4_challenge_exercises/blob/master/hints.md) file for some advice on how to solve the challenges.
 
-## I'm having problems validating my solutions to the exercises, what can I do?
+## I'm getting errors when validating my solutions to the exercises, what can I do?
 
 If you are experiencing problems when validating the exercises, try the following. **Before you proceed, please keep a backup of your solutions since these steps will restore the exercises to their initial state and delete your progress.**
 

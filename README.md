@@ -15,7 +15,7 @@ Take a look at the [`hints.md`](https://github.com/qiskit-community/may4_challen
 If you are experiencing problems when validating the exercises, try the following. **Before you proceed, please keep a backup of your solutions since these steps will restore the exercises to their initial state and delete your progress.**
 
 1. Create a new Qiskit Notebook.
-2. Add a new code cell, and then copy-and-paste this:
+2. Add a new code cell, and then copy-and-paste this :
 
 ```
 %pip install -I git+https://github.com/qiskit-community/may4_challenge.git@0.4.30

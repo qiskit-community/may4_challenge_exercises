@@ -30,3 +30,7 @@ If you are experiencing problems when validating the exercises, try the followin
 ## Where is the conversation happening?
 
 There is a channel (`#ibm-quantum-challenge`) dedicated to the Challenge in [Qiskit Slack](http://qisk.it/slack). Join the conversation!
+
+## Feedback about the challenge
+
+If you participated in the IBM Quantum Challenge and would like to give us feedback, please fill out this 2-minute survey: https://qiskit.typeform.com/to/qgdGVl
